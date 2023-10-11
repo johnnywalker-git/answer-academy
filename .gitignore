@@ -1,0 +1,7 @@
+node_modules/
+
+.cypress/
+
+.cypress_cache/
+
+.DS_Store
