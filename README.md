@@ -23,7 +23,9 @@ I particularly enjoyed traversing the DOM, and found the Cypress UI tool for sel
 
 ![App Screenshot](https://github.com/johnnywalker-git/answer-academy/blob/main/readme-img/test.jpg?raw=true)
 
+# Cookie test
 
+  Upon inspecting the login page in the browser tools, I wanted to see if any session storage had been built in to the application to save things like user data. I did manage to find a Cookie containing a 'user' type property, so decided to write a test for this in-case of any future deprecations in the application.
 
 
 ## Installation
