@@ -17,6 +17,8 @@ Having looked at the Cypress documentation and trying a very basic project, I wa
 
 I followed an 'Arrange. Act. Assert.' model as my previous knowledge from test-driven development had shown me, and this seemed to work well. 
 
+This was my first experience of Cypress, and I am very impressed. It has some very distinct similarities to JEST which I have used in TDD for Node server application. Particularly in the syntax for outcome assertions.
+
 I was also careful to make sure the test's failed for the right reasons before I got them to pass to ensure it was working as it should.
 
 I particularly enjoyed traversing the DOM, and found the Cypress UI tool for selecting elements intuitive and fun to use. I also found methods to look at inner-text in elements to work out if an error message provided the user with the information they needed.
