@@ -42,7 +42,6 @@
             cy.get('[data-test="login-button"]').click()
             //Assert
             cy.url().should('not.include', '/inventory.html');
-
         })
         it('Shows an error message ', () => {
             //Arrange
