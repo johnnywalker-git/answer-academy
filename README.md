@@ -1,5 +1,5 @@
 
-# Answer Digital - Testing
+# Cypress Example
 
 This project was designed to be an end-to-end test suite for the login of a user on an external site.
 
