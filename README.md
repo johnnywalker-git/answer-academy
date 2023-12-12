@@ -9,7 +9,7 @@ This project was designed to be an end-to-end test suite for the login of a user
 
 Planning was a crucial step and I used pseudocode to help me understand what I did and didn't need to be testing for. I created a small use-case scenario spreadsheet to help me track my progress before I put 'pen to paper.'
 
-![App Screenshot](https://github.com/johnnywalker-git/answer-academy/blob/main/readme-img/planning.jpg?raw=true)
+![App Screenshot](https://github.com/johnnywalker-git/cypress-example/blob/main/readme-img/planning.jpg?raw=true)
 
 # Writing tests
 
@@ -23,7 +23,7 @@ I was also careful to make sure the test's failed for the right reasons before I
 
 I particularly enjoyed traversing the DOM, and found the Cypress UI tool for selecting elements intuitive and fun to use. I also found methods to look at inner-text in elements to work out if an error message provided the user with the information they needed.
 
-![App Screenshot](https://github.com/johnnywalker-git/answer-academy/blob/main/readme-img/test.jpg?raw=true)
+![App Screenshot](https://github.com/johnnywalker-git/cypress-example/blob/main/readme-img/test.jpg?raw=true)
 
 # Cookie test
 
@@ -33,7 +33,7 @@ I particularly enjoyed traversing the DOM, and found the Cypress UI tool for sel
 ## Installation
 
 Fork the project from the follwing repo:
-https://github.com/johnnywalker-git/answer-academy
+https://github.com/johnnywalker-git/cypress-example
 
 ```bash
 Run the following...
